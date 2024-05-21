@@ -1,3 +1,9 @@
-# Tableau
-By using Tableau, creating interactive data visualizations and dashboards to compare and analyze sales data by region. I can quickly and easily aggregate and display data, allowing users to easily identify patterns and trends in sales performance across different regions.
-##Comparison of Region Based on Sales
+# Tableau : Comparison of Region Based on Sales
+Description
+
+The director of a leading organization wants to compare the sales between two regions. He has asked each region operators to record the sales data to compare by region. The upper management wants to visualize the sales data using a dashboard to understand the performance between them and suggest the necessary improvements.
+
+ 
+
+Objective: Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
+
